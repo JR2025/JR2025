@@ -29,22 +29,19 @@ Adoto uma metodologia de trabalho organizada e estruturada, com atenção a boas
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Streak (sequência e total de contribuições) -->
 <p align="center">
-  <img height="180" src="https://streak-stats.vercel.app/?user=JR2025&theme=radical&hide_border=false" alt="GitHub Streak - JR2025"/>
+  <!-- Estatísticas gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JR2025&show_icons=true&theme=radical&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de JR2025"/>
+
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR2025&layout=compact&langs_count=8&theme=radical&locale=pt-br" alt="Linguagens mais usadas por JR2025"/>
 </p>
 
-
-<!-- (Opcional) Linguagens mais usadas - mantém o card que já funciona -->
+<!-- Gráfico de atividades -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR2025&layout=compact&langs_count=8&theme=radical" alt="Top Languages - JR2025"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JR2025&theme=radical&area=true&locale=pt-br" alt="Gráfico de atividades de JR2025"/>
 </p>
 
-
-<!-- Gráfico de atividade (contribuições ao longo do tempo) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JR2025&theme=rogue&hide_border=false&area=true" alt="GitHub Activity Graph - JR2025"/>
-</p>
 
 
 
