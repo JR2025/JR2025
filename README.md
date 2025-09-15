@@ -39,8 +39,9 @@ Adoto uma metodologia de trabalho organizada e estruturada, com atenção a boas
 
 <!-- Gráfico de atividades -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JR2025&theme=radical&area=true&locale=pt-br" alt="Gráfico de atividades de JR2025"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JR2025&bg_color=0d1117&color=1f6feb&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Gráfico de atividades de JR2025"/>
 </p>
+
 
 
 
