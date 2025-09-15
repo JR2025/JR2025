@@ -1,38 +1,45 @@
 # João Vitor Alves Randa  
 
-Estudante de Ciências da Computação na Universidade Unianchieta em Jundiaí, principal foco é o desenvolvimento de Software e automação de processos.  
+🎓 Estudante de Ciências da Computação na Universidade Unianchieta em Jundiaí  
+💻 Foco em Desenvolvimento de Software & Automação de Processos  
 
 ---
 
-## 👨‍💻 Sobre mim  
+👨‍💻 Sobre mim
 
-Sou apaixonado por tecnologia e inovação, buscando constantemente transformar ideias em soluções eficientes e escaláveis.  
-Minha trajetória acadêmica e prática tem como ênfase o desenvolvimento de software moderno e a criação de automações inteligentes que otimizam processos e aumentam a produtividade.  
+Sou apaixonado por tecnologia e inovação, com foco em transformar ideias em soluções eficientes que simplificam processos e agregam valor. Tenho como motivação a resolução de problemas complexos e o desenvolvimento de sistemas que facilitem a vida das pessoas e empresas.
 
-Tenho perfil analítico, proativo e gosto de encarar desafios que exigem pensamento crítico, lógica e criatividade.  
+Adoto uma metodologia de trabalho organizada e estruturada, com atenção a boas práticas de versionamento, integração contínua e documentação clara. Meus projetos são desenvolvidos priorizando escalabilidade, segurança e usabilidade, sempre acompanhados de deploys profissionais em domínio próprio, garantindo acesso confiável e identidade digital sólida.
+---
+
+## 🛠️ Linguagens e Tecnologias  
+
+<p align="left">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>   
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+</p>  
 
 ---
 
-## 🚀 Competências Técnicas  
+## 📊 Estatísticas do GitHub  
 
-- **Linguagens de programação:** Python, JavaScript, TypeScript  
-- **Frameworks & Bibliotecas:** React, Next.js, Node.js,Selenium  
-- **Banco de dados:** SQL, MongoDB  
-- **Automação:** RPA em Python (Selenium, PyPDF2, Pandas, OpenPyXL)  
-- **Versionamento:** Git & GitHub  
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorranda&show_icons=true&theme=radical&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorranda&layout=compact&langs_count=7&theme=radical"/>  
+</p>
 
 ---
 
-## 📌 Projetos em Destaque  
+## 🏆 Projetos em Destaque  
 
-- **Portfólio Pessoal**  
-  Desenvolvimento de site responsivo para apresentação de projetos e trajetória acadêmica.  
-  🔗 [Acesse aqui](https://joao-vitor-randa.vercel.app/)  
-
-- **Automação de Processos**  
-  Criação de bots e scripts em Python para empresas, otimizando tarefas manuais e reduzindo erros em processos repetitivos.  
-
+- **Portfólio Pessoal** → [joao-vitor-randa.vercel.app](https://joao-vitor-randa.vercel.app/)  
+- **Automação de Processos** com Python (Selenium, PyPDF2, Pandas, OpenPyXL).  
 
 
 ---
@@ -40,3 +47,4 @@ Tenho perfil analítico, proativo e gosto de encarar desafios que exigem pensame
 ## 🎓 Formação Acadêmica  
 
 - **Ciências da Computação** — Universidade Unianchieta, Jundiaí _(em andamento)_  
+
