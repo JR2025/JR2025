@@ -5,11 +5,11 @@
 
 ---
 
-👨‍💻 Sobre mim
-
+## 👨‍💻 Sobre mim
 Sou apaixonado por tecnologia e inovação, com foco em transformar ideias em soluções eficientes que simplificam processos e agregam valor. Tenho como motivação a resolução de problemas complexos e o desenvolvimento de sistemas que facilitem a vida das pessoas e empresas.
 
-Adoto uma metodologia de trabalho organizada e estruturada, com atenção a boas práticas de versionamento, integração contínua e documentação clara. Meus projetos são desenvolvidos priorizando escalabilidade, segurança e usabilidade, sempre acompanhados de deploys profissionais em domínio próprio, garantindo acesso confiável e identidade digital sólida.
+Adoto uma metodologia de trabalho organizada e estruturada, com atenção a boas práticas de versionamento, integração contínua e documentação clara. Meus projetos são desenvolvidos priorizando escalabilidade, segurança e usabilidade, sempre acompanhados de **deploys profissionais em domínio próprio**, garantindo acesso confiável e identidade digital sólida.
+
 ---
 
 ## 🛠️ Linguagens e Tecnologias  
@@ -29,7 +29,7 @@ Adoto uma metodologia de trabalho organizada e estruturada, com atenção a boas
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JR2025&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JR2025&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR2025&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
