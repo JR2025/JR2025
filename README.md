@@ -28,9 +28,20 @@ Adoto uma metodologia de trabalho organizada e estruturada, com atenção a boas
 ---
 
 ## 📊 Estatísticas do GitHub
+
+<!-- Streak (sequência e total de contribuições) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JR2025&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR2025&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=JR2025&theme=radical&hide_border=false" alt="GitHub Streak - JR2025"/>
+</p>
+
+<!-- Gráfico de atividade (contribuições ao longo do tempo) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JR2025&theme=rogue&hide_border=false&area=true" alt="GitHub Activity Graph - JR2025"/>
+</p>
+
+<!-- (Opcional) Linguagens mais usadas - mantém o card que já funciona -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR2025&layout=compact&langs_count=8&theme=radical" alt="Top Languages - JR2025"/>
 </p>
 
 
